@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Le Blog Data Science de Michaël"
+title                    : "Un blog sur la Data Science et les Statistiques en général"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michaël SOK"
