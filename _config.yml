@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Un blog sur la Data Science et les Statistiques en général"
+title                    : "Data Science, Machine Learning & Statistiques"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michaël SOK"
-description              : "An amazing website."
+description              : "Blog sur différents centres d'intérêts autour de la Data Science, le Machine Learning et les Statistiques."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,49 +95,52 @@ analytics:
 author:
   name             : "Michaël SOK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Je suis un blogger **quelconque**."
-  location         : "Somewhere"
+  bio              : "Data Scientist "
+  location         : "Paris, France"
   email            :
   links:
-    - label: "Email"
+    - label: "mdb.sok@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      url: "mailto:mdb.sok@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/michaël-sok-656514a7/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+     # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/michaelsok"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/michaël-sok-656514a7/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/michaelsok"
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url:
 
 

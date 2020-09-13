@@ -6,3 +6,30 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.column {
+    float: left;
+    width: 50%;
+  }
+
+.column5 {
+float: left;
+width: 5%;
+}
+
+.column15 {
+float: left;
+width: 15%;
+}
+
+.column80 {
+float: right;
+width: 80%;
+}
+  
+/* Clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
