@@ -9,7 +9,7 @@ toc: true
 
 <br>
 
-<h1 align="center">Curriculum Vitae</h1>
+<h1 align="center"><a href="/assets/downloads/CV_Michael_SOK.pdf" download="cv_michael_sok">Curriculum Vitae</a></h1>
 
 # Data Scientist
 
@@ -49,8 +49,8 @@ toc: true
 
 ## Certifications
 
-- **GCP** - Professional Data Engineer on Google Cloud Platform
-- **Coursera** - Deep Learning Specialization - deeplearning.ai
+- <img style="width:7%;height:7%" src="/assets/images/gcp.png" alt="Overlay"> Professional Data Engineer on Google Cloud Platform
+- <img style="width:7%;height:7%" src="/assets/images/deeplearningreverse.png" alt="Overlay"> Deep Learning Specialization
 
 ## Articles
 ### Blog Quantmetry
