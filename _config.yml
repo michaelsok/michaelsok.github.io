@@ -21,12 +21,12 @@ title_separator          : "-"
 subtitle                 : #
 name                     : "Michaël SOK"
 description              : "Blog sur différents centres d'intérêts autour de la Data Science, le Machine Learning et les Statistiques."
-url                      : "https://www.msok-ml/"
+url                      : #"https://www.msok-ml/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : michaelsok/michaelsok.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "msok-ml.com"
+masthead_title           : Blog ML de Michaël #"msok-ml.com" to use when needed
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
