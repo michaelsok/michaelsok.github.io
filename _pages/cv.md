@@ -55,20 +55,20 @@ toc: true
 ## Articles
 ### Blog Quantmetry
 
-- 18/05/2020 - [Les exemples adverses ne sont pas des erreurs, ce sont des features !](https://www.quantmetry.com/exemples-adverses-erreurs-features/)
-- 23/04/2020 - [Repenser sa stratégie de prévision et optimiser son activité](https://www.quantmetry.com/strategie-prevision-optimiser-activite/)
-- 21/02/2020 - [Techniques d’intelligibilité en Deep Learning appliquées à l’image](https://www.quantmetry.com/intelligibilite-deep-learning-image)
-- 24/01/2020 - [Tabular data generation using Generative Adversarial Networks](https://www.quantmetry.com/tabular-data-generation-using-generative-adversarial-networks/)
-- 09/09/2019 - [Intelligibilité d’un modèle lié un dispositif clé de la conformité](https://www.quantmetry.com/intelligibilite-dun-modele-lie-un-dispositif-cle-de-la-conformite/)
-- 17/07/2019 - [Paris Data Ladies au Trianon ! (NLP, GANs et Graphes)](https://www.quantmetry.com/paris-data-ladies-au-trianon-nlp-gans-et-graphes/)
+- <span style="font-family:consolas">18/05/2020 -</span> [Les exemples adverses ne sont pas des erreurs, ce sont des features !](https://www.quantmetry.com/exemples-adverses-erreurs-features/)
+- <span style="font-family:consolas">23/04/2020 -</span> [Repenser sa stratégie de prévision et optimiser son activité](https://www.quantmetry.com/strategie-prevision-optimiser-activite/)
+- <span style="font-family:consolas">21/02/2020 -</span> [Techniques d’intelligibilité en Deep Learning appliquées à l’image](https://www.quantmetry.com/intelligibilite-deep-learning-image)
+- <span style="font-family:consolas">24/01/2020 -</span> [Tabular data generation using Generative Adversarial Networks](https://www.quantmetry.com/tabular-data-generation-using-generative-adversarial-networks/)
+- <span style="font-family:consolas">09/09/2019 -</span> [Intelligibilité d’un modèle lié un dispositif clé de la conformité](https://www.quantmetry.com/intelligibilite-dun-modele-lie-un-dispositif-cle-de-la-conformite/)
+- <span style="font-family:consolas">17/07/2019 -</span> [Paris Data Ladies au Trianon ! (NLP, GANs et Graphes)](https://www.quantmetry.com/paris-data-ladies-au-trianon-nlp-gans-et-graphes/)
 
 ## Présentations
 
 ### Webinar
-- 20/05/2020 - Rendre les modèles intelligibles pour une IA de confiance
-- 23/04/2020 - Repenser sa stratégie de prévision et optimiser son activité
+- <span style="font-family:consolas">20/05/2020 -</span> Rendre les modèles intelligibles pour une IA de confiance
+- <span style="font-family:consolas">23/04/2020 -</span> Repenser sa stratégie de prévision et optimiser son activité
 
 ### Meet ups
 *Génération de données tabulaires par des GANs*
-- 11/12/2019 - Paris Machine Learning
-- 17/10/2020 - Paris Generative Models
+- <span style="font-family:consolas">11/12/2019 -</span> Paris Machine Learning
+- <span style="font-family:consolas">17/10/2020 -</span> Paris Generative Models
